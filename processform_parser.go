@@ -3,7 +3,6 @@ package dingtalk
 import (
 	"encoding/json"
 	"errors"
-	"fmt"
 	"reflect"
 
 	"strings"
