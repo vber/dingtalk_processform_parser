@@ -120,7 +120,7 @@ func (parser *DingtalkProcessFormParser) processMapData(t map[string]interface{}
 	formdata.Title = getValueString(process_instance, "title")
 
 	parser.getComponentsValue(process_instance)
-	fmt.Println(parser.components)
+// 	fmt.Println(parser.components)
 	return formdata, nil
 }
 
