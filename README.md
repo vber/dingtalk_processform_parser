@@ -3,6 +3,7 @@
 
 # 使用方法
 
+```go
 func main() {
 	var (
 		v interface{}
@@ -29,3 +30,4 @@ func main() {
 		}
 	}
 }
+```
