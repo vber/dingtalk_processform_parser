@@ -4,6 +4,10 @@
 # 使用方法
 
 ```go
+import(
+	"github.com/vber/dingtalk_processform_parser"
+)
+
 func main() {
 	var (
 		v interface{}
