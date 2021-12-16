@@ -1,4 +1,4 @@
-package github.com/vber/dingtalk
+package dingtalk
 
 import (
 	"encoding/json"
